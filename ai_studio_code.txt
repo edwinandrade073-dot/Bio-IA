@@ -1,0 +1,7 @@
+bioia-cv/
+│
+├── index.html            # Aplicação Web completa (UI, Navegação, Módulos)
+├── manifest.json         # Manifesto PWA para instalação no telemóvel/desktop
+├── sw.js                 # Service Worker (cache offline e PWA)
+└── api/
+    └── chat.js           # Função Serverless segura (Node.js) para chamada à IA

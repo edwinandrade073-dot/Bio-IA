@@ -1,0 +1,21 @@
+{
+  "name": "BioIA Cabo Verde",
+  "short_name": "BioIA CV",
+  "description": "A inteligência artificial ao serviço da vida e do oceano em Cabo Verde.",
+  "start_url": "/index.html",
+  "display": "standalone",
+  "background_color": "#f4f8fa",
+  "theme_color": "#0d4b75",
+  "icons": [
+    {
+      "src": "https://cdn-icons-png.flaticon.com/512/2972/2972531.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "https://cdn-icons-png.flaticon.com/512/2972/2972531.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
